@@ -1,5 +1,5 @@
 # Pig Game
-![Pig Game](./Pig%20Game%20Demo.png)
+![Pig Game](./assets/image/Pig%20Game%20Demo.png)
 ## Introduction
 Pig is a simple dice game that can be played by two or more players. The objective of the game is to score 100 points before the other players.
 - **level :** average+
