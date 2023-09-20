@@ -19,4 +19,4 @@ The Pig game is a fun and easy-to-play dice game that can be enjoyed by people o
 ## The end 
 This project will be a real challenge for you
 <br>
-enjoy the game 
+[enjoy the game](https://m-sadegh86.github.io/Pig-Game/)
